@@ -30,7 +30,8 @@ body {
   border-radius: 0px 0px 0px 100px;
 }
 
-header {
+/* header */
+.flex {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -324,7 +325,8 @@ footer nav a {
     background-size: 2239.96px 2245.78px, 100%;
   }
 
-  header {
+  /* header */
+  .flex {
     flex-direction: row;
     justify-content: flex-start;
     gap: 64px;
